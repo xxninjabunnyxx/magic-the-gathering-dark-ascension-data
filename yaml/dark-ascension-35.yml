@@ -1,0 +1,113 @@
+---
+object: card
+id: 4a1340f1-85a4-4551-9871-bb00db6d97a8
+oracle_id: 273b339c-964b-4a18-8eb5-ceb8abcdfd9e
+multiverse_ids:
+- 262848
+mtgo_id: 43419
+mtgo_foil_id: 43420
+tcgplayer_id: 57860
+cardmarket_id: 252559
+name: Divination
+lang: en
+released_at: '2012-02-03'
+uri: https://api.scryfall.com/cards/4a1340f1-85a4-4551-9871-bb00db6d97a8
+scryfall_uri: https://scryfall.com/card/dka/35/divination?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/a/4a1340f1-85a4-4551-9871-bb00db6d97a8.jpg?1562912317
+  normal: https://cards.scryfall.io/normal/front/4/a/4a1340f1-85a4-4551-9871-bb00db6d97a8.jpg?1562912317
+  large: https://cards.scryfall.io/large/front/4/a/4a1340f1-85a4-4551-9871-bb00db6d97a8.jpg?1562912317
+  png: https://cards.scryfall.io/png/front/4/a/4a1340f1-85a4-4551-9871-bb00db6d97a8.png?1562912317
+  art_crop: https://cards.scryfall.io/art_crop/front/4/a/4a1340f1-85a4-4551-9871-bb00db6d97a8.jpg?1562912317
+  border_crop: https://cards.scryfall.io/border_crop/front/4/a/4a1340f1-85a4-4551-9871-bb00db6d97a8.jpg?1562912317
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Sorcery
+oracle_text: Draw two cards.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 8052750a-aaf2-46fc-b46d-633f14124017
+set: dka
+set_name: Dark Ascension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8052750a-aaf2-46fc-b46d-633f14124017
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adka&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dka?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4a1340f1-85a4-4551-9871-bb00db6d97a8/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A273b339c-964b-4a18-8eb5-ceb8abcdfd9e&unique=prints
+collector_number: '35'
+digital: false
+rarity: common
+flavor_text: Even the House of Galan, who takes the most scholarly approach to the
+  mystic traditions, has resorted to exploring more primitive methods in Avacyn's
+  absence.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott Chou
+artist_ids:
+- 9e048547-f9c3-4958-9c2c-91e45df7c6ae
+illustration_id: ef75d26b-9026-4da7-aad8-4bafdbe263f7
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4765
+penny_rank: 2918
+prices:
+  usd: '0.04'
+  usd_foil: '0.21'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262848
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Divination&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Divination&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Divination
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57860?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Divination&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/43419?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

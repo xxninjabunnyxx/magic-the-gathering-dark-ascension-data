@@ -1,0 +1,129 @@
+---
+object: card
+id: 5385925d-05ad-4f2e-bd2c-8de6c088ed05
+oracle_id: 59f10ddb-8287-4d2c-8c60-1080b108fa78
+multiverse_ids:
+- 270779
+mtgo_id: 43471
+mtgo_foil_id: 43472
+tcgplayer_id: 57887
+cardmarket_id: 252549
+name: Requiem Angel
+lang: en
+released_at: '2012-02-03'
+uri: https://api.scryfall.com/cards/5385925d-05ad-4f2e-bd2c-8de6c088ed05
+scryfall_uri: https://scryfall.com/card/dka/18/requiem-angel?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/3/5385925d-05ad-4f2e-bd2c-8de6c088ed05.jpg?1562914576
+  normal: https://cards.scryfall.io/normal/front/5/3/5385925d-05ad-4f2e-bd2c-8de6c088ed05.jpg?1562914576
+  large: https://cards.scryfall.io/large/front/5/3/5385925d-05ad-4f2e-bd2c-8de6c088ed05.jpg?1562914576
+  png: https://cards.scryfall.io/png/front/5/3/5385925d-05ad-4f2e-bd2c-8de6c088ed05.png?1562914576
+  art_crop: https://cards.scryfall.io/art_crop/front/5/3/5385925d-05ad-4f2e-bd2c-8de6c088ed05.jpg?1562914576
+  border_crop: https://cards.scryfall.io/border_crop/front/5/3/5385925d-05ad-4f2e-bd2c-8de6c088ed05.jpg?1562914576
+mana_cost: "{5}{W}"
+cmc: 6.0
+type_line: Creature — Angel
+oracle_text: |-
+  Flying
+  Whenever another non-Spirit creature you control dies, create a 1/1 white Spirit creature token with flying.
+power: '5'
+toughness: '5'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 5385925d-05ad-4f2e-bd2c-8de6c088ed05
+  component: combo_piece
+  name: Requiem Angel
+  type_line: Creature — Angel
+  uri: https://api.scryfall.com/cards/5385925d-05ad-4f2e-bd2c-8de6c088ed05
+- object: related_card
+  id: 1d9b18e5-d842-4114-b395-ff5dd42c94d9
+  component: token
+  name: Spirit
+  type_line: Token Creature — Spirit
+  uri: https://api.scryfall.com/cards/1d9b18e5-d842-4114-b395-ff5dd42c94d9
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8052750a-aaf2-46fc-b46d-633f14124017
+set: dka
+set_name: Dark Ascension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8052750a-aaf2-46fc-b46d-633f14124017
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adka&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dka?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5385925d-05ad-4f2e-bd2c-8de6c088ed05/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59f10ddb-8287-4d2c-8c60-1080b108fa78&unique=prints
+collector_number: '18'
+digital: false
+rarity: rare
+flavor_text: When angels despair, what hope can remain for mortals?
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Deschamps
+artist_ids:
+- 37970e22-9cee-44c1-af44-5ee27cf26b76
+illustration_id: 295b5e8f-b328-4111-82d9-f21838f30a7d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 4044
+penny_rank: 9510
+prices:
+  usd: '1.36'
+  usd_foil: '4.01'
+  usd_etched: 
+  eur: '0.82'
+  eur_foil: '0.53'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=270779
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Requiem+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Requiem+Angel&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Requiem+Angel
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57887?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Requiem+Angel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/43471?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

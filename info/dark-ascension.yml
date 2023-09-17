@@ -1,0 +1,21 @@
+---
+object: set
+id: 8052750a-aaf2-46fc-b46d-633f14124017
+code: dka
+mtgo_code: dka
+arena_code: dka
+tcgplayer_id: 125
+name: Dark Ascension
+uri: https://api.scryfall.com/sets/8052750a-aaf2-46fc-b46d-633f14124017
+scryfall_uri: https://scryfall.com/sets/dka
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Adka&unique=prints
+released_at: '2012-02-03'
+set_type: expansion
+card_count: 158
+printed_size: 158
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: isd
+block: Innistrad
+icon_svg_uri: https://svgs.scryfall.io/sets/dka.svg?1694404800

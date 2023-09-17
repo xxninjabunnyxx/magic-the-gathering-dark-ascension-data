@@ -1,0 +1,137 @@
+---
+object: card
+id: 9d9c1c46-7aa7-464c-87b0-b29b9663daef
+oracle_id: 28df85d6-e13a-4178-a361-7015afd316ca
+multiverse_ids:
+- 226735
+- 226721
+mtgo_id: 43183
+mtgo_foil_id: 43184
+tcgplayer_id: 57607
+cardmarket_id: 252504
+name: Chalice of Life // Chalice of Death
+lang: en
+released_at: '2012-02-03'
+uri: https://api.scryfall.com/cards/9d9c1c46-7aa7-464c-87b0-b29b9663daef
+scryfall_uri: https://scryfall.com/card/dka/146/chalice-of-life-chalice-of-death?utm_source=api
+layout: transform
+highres_image: true
+image_status: highres_scan
+cmc: 3.0
+type_line: Artifact // Artifact
+color_identity: []
+keywords:
+- Transform
+card_faces:
+- object: card_face
+  name: Chalice of Life
+  mana_cost: "{3}"
+  type_line: Artifact
+  oracle_text: "{T}: You gain 1 life. Then if you have at least 10 life more than
+    your starting life total, transform Chalice of Life."
+  colors: []
+  flavor_text: The sweet taste of hope's promise.
+  artist: Ryan Yee
+  artist_id: 8955dca7-3e37-42b4-83a9-167c78a2178f
+  illustration_id: 7cdf9a5b-b43b-4bc9-8800-67070923a81f
+  image_uris:
+    small: https://cards.scryfall.io/small/front/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    normal: https://cards.scryfall.io/normal/front/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    large: https://cards.scryfall.io/large/front/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    png: https://cards.scryfall.io/png/front/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.png?1581395105
+    art_crop: https://cards.scryfall.io/art_crop/front/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    border_crop: https://cards.scryfall.io/border_crop/front/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+- object: card_face
+  name: Chalice of Death
+  flavor_name: ''
+  mana_cost: ''
+  type_line: Artifact
+  oracle_text: "{T}: Target player loses 5 life."
+  colors: []
+  flavor_text: The bitter taste of life's only certainty.
+  artist: Ryan Yee
+  artist_id: 8955dca7-3e37-42b4-83a9-167c78a2178f
+  illustration_id: a0bedbae-620a-47cf-9a0c-65af1d7b8774
+  image_uris:
+    small: https://cards.scryfall.io/small/back/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    normal: https://cards.scryfall.io/normal/back/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    large: https://cards.scryfall.io/large/back/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    png: https://cards.scryfall.io/png/back/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.png?1581395105
+    art_crop: https://cards.scryfall.io/art_crop/back/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+    border_crop: https://cards.scryfall.io/border_crop/back/9/d/9d9c1c46-7aa7-464c-87b0-b29b9663daef.jpg?1581395105
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8052750a-aaf2-46fc-b46d-633f14124017
+set: dka
+set_name: Dark Ascension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8052750a-aaf2-46fc-b46d-633f14124017
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adka&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dka?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9d9c1c46-7aa7-464c-87b0-b29b9663daef/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28df85d6-e13a-4178-a361-7015afd316ca&unique=prints
+collector_number: '146'
+digital: false
+rarity: uncommon
+artist: Ryan Yee
+artist_ids:
+- 8955dca7-3e37-42b4-83a9-167c78a2178f
+border_color: black
+frame: '2003'
+frame_effects:
+- sunmoondfc
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 7342
+penny_rank: 6701
+prices:
+  usd: '0.38'
+  usd_foil: '1.45'
+  usd_etched: 
+  eur: '1.00'
+  eur_foil: '0.90'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=226735
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chalice+of+Life+%2F%2F+Chalice+of+Death&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chalice+of+Life+%2F%2F+Chalice+of+Death&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Chalice+of+Life
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57607?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chalice+of+Life&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/43183?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

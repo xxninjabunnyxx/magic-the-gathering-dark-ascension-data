@@ -1,0 +1,114 @@
+---
+object: card
+id: 281a685a-bd02-43bf-8700-2207c65bbbb1
+oracle_id: b7cfbfa1-dd38-47ff-9138-fa6b247afc11
+multiverse_ids:
+- 262678
+mtgo_id: 43335
+mtgo_foil_id: 43336
+tcgplayer_id: 57866
+cardmarket_id: 252565
+name: Mystic Retrieval
+lang: en
+released_at: '2012-02-03'
+uri: https://api.scryfall.com/cards/281a685a-bd02-43bf-8700-2207c65bbbb1
+scryfall_uri: https://scryfall.com/card/dka/42/mystic-retrieval?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/8/281a685a-bd02-43bf-8700-2207c65bbbb1.jpg?1562904521
+  normal: https://cards.scryfall.io/normal/front/2/8/281a685a-bd02-43bf-8700-2207c65bbbb1.jpg?1562904521
+  large: https://cards.scryfall.io/large/front/2/8/281a685a-bd02-43bf-8700-2207c65bbbb1.jpg?1562904521
+  png: https://cards.scryfall.io/png/front/2/8/281a685a-bd02-43bf-8700-2207c65bbbb1.png?1562904521
+  art_crop: https://cards.scryfall.io/art_crop/front/2/8/281a685a-bd02-43bf-8700-2207c65bbbb1.jpg?1562904521
+  border_crop: https://cards.scryfall.io/border_crop/front/2/8/281a685a-bd02-43bf-8700-2207c65bbbb1.jpg?1562904521
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: |-
+  Return target instant or sorcery card from your graveyard to your hand.
+  Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- U
+color_identity:
+- R
+- U
+keywords:
+- Flashback
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 8052750a-aaf2-46fc-b46d-633f14124017
+set: dka
+set_name: Dark Ascension
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/8052750a-aaf2-46fc-b46d-633f14124017
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adka&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/dka?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/281a685a-bd02-43bf-8700-2207c65bbbb1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab7cfbfa1-dd38-47ff-9138-fa6b247afc11&unique=prints
+collector_number: '42'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Scott Chou
+artist_ids:
+- 9e048547-f9c3-4958-9c2c-91e45df7c6ae
+illustration_id: c63e52e5-4393-4fed-9e43-0e67b168f3dc
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 2867
+penny_rank: 5613
+prices:
+  usd: '0.21'
+  usd_foil: '4.50'
+  usd_etched: 
+  eur: '0.16'
+  eur_foil: '2.34'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=262678
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mystic+Retrieval&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mystic+Retrieval&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mystic+Retrieval
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57866?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mystic+Retrieval&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/43335?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
